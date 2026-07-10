@@ -1,0 +1,164 @@
+<<<<<<< HEAD
+/* ===========================
+RESET
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* ===========================
+BODY
+=========================== */
+
+body{
+
+    background:#030712;
+
+    font-family:'Poppins',sans-serif;
+
+    color:white;
+
+}
+
+/* ===========================
+NAVBAR
+=========================== */
+
+.navbar{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:25px 8%;
+
+    background:#07111f;
+
+    position:sticky;
+
+    top:0;
+
+}
+
+.logo{
+
+    font-size:32px;
+
+    font-weight:700;
+
+    color:#38bdf8;
+
+}
+
+.menu{
+
+    display:flex;
+
+    gap:35px;
+
+    list-style:none;
+
+}
+
+.menu a{
+
+    text-decoration:none;
+
+    color:white;
+
+    transition:.3s;
+
+}
+
+.menu a:hover{
+
+    color:#38bdf8;
+
+=======
+/* ===========================
+RESET
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* ===========================
+BODY
+=========================== */
+
+body{
+
+    background:#030712;
+
+    font-family:'Poppins',sans-serif;
+
+    color:white;
+
+}
+
+/* ===========================
+NAVBAR
+=========================== */
+
+.navbar{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:25px 8%;
+
+    background:#07111f;
+
+    position:sticky;
+
+    top:0;
+
+}
+
+.logo{
+
+    font-size:32px;
+
+    font-weight:700;
+
+    color:#38bdf8;
+
+}
+
+.menu{
+
+    display:flex;
+
+    gap:35px;
+
+    list-style:none;
+
+}
+
+.menu a{
+
+    text-decoration:none;
+
+    color:white;
+
+    transition:.3s;
+
+}
+
+.menu a:hover{
+
+    color:#38bdf8;
+
+>>>>>>> 99b7b1e144111588357ca99ea2ee8168fdb8c948
+}
